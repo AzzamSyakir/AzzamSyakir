@@ -3,13 +3,9 @@
 ### and here is my stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AzzamSyakir&show_icons=true&theme=gotham" alt="AzzamSyakir" />
 
-  TypeScript   26 hrs 19 mins  █████████████████▒░░░░░░░   69.55 %
-PhHP   9 hrs 59 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.39 %
-Python         41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-java         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-```
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 - 🌱 I’m currently learning Quadrant boarding school
 - 👯 I’m looking to collaborate on project
