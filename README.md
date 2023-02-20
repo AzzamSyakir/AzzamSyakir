@@ -10,12 +10,7 @@ java         29 mins         ▒░░░░░░░░░░░░░░░░
 Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
-<!--
-**SatriaAPN/SatriaAPN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on not work yet
 - 🌱 I’m currently learning Quadrant boarding school
 - 👯 I’m looking to collaborate on project
 - 🤔 I’m looking for help with be my front end dev
