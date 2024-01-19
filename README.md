@@ -13,4 +13,3 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 - 💬 Ask me about project
 - 📫 How to reach me: contact in my email @Azzamsykir@gmail.com
 - 😄 Pronouns: he/him
-/
