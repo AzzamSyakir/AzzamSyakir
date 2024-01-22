@@ -1,7 +1,7 @@
 ### Hi there, I'm Azzam Syakir 👋
 
 ### and here is my stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AzzamSyakir&show_icons=true&theme=gotham" alt="AzzamSyakir" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AzzamSyakir&show_icons=true&theme=dark" alt="AzzamSyakir" />
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
