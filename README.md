@@ -3,6 +3,11 @@
 ### and here is my stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AzzamSyakir&show_icons=true&theme=dark" alt="AzzamSyakir" />
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
