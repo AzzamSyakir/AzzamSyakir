@@ -1,8 +1,13 @@
 <!--START_SECTION:waka-->
-```txt
-Go         46 mins         ███████████████████▒░░░░░   76.80 %
-Makefile   12 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
-Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+
+```Go
+From: 31 January 2024 - To: 02 February 2024
+
+Total Time: 3 hrs 1 min
+
+Go         2 hrs 38 mins   █████████████████████ ---   85.38 %
+Makefile   19 mins         ██▒----------------------   10.34 %
+Other      4 mins          ▒------------------------   02.35 %
 ```
+
 <!--END_SECTION:waka-->
