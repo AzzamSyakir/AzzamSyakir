@@ -23,4 +23,3 @@ jobs:
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
