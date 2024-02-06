@@ -6,5 +6,4 @@ Markdown     1 hr 36 mins    ████▒░░░░░░░░░░░░
 Makefile     19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
 Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
-
 <!--END_SECTION:waka-->
