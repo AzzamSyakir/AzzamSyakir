@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 
-```txt
+```go
 Other             17 hrs 28 mins  ████████████████░░░░░░░░░   63.75 %
 Go                6 hrs 40 mins   ██████░░░░░░░░░░░░░░░░░░░   24.36 %
 Protocol Buffer   1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
