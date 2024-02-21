@@ -1,5 +1,4 @@
 <!--START_SECTION:waka-->
-
 ```text
 Go           5 hrs 3 mins    ████████████░░░░░░░░░░░░░   48.26 %
 YAML         4 hrs 39 mins   ███████████░░░░░░░░░░░░░░   44.43 %
