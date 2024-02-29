@@ -17,3 +17,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           CODE_LANG: text
           LANG_COUNT: 5 
+          TIME_RANGE: all_time
