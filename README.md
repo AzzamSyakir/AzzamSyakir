@@ -1,5 +1,4 @@
 <!--START_SECTION:waka-->
-
 ```text
 Go                         254 hrs 59 mins ████████████░░░░░░░░░░░░░   47.46 %
 Blade Template             65 hrs 54 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
